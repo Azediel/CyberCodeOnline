@@ -68,7 +68,7 @@
  	 	},
  	 	"printer": {
  	 	 	"name": {
- 	 	 	 	"trans": "Imprimante 3D Moléculaire",
+ 	 	 	 	"trans": "Imprimante Moléculaire 3D",
  	 	 	 	"eng": "Molecular 3d Printer"
  	 	 	},
  	 	 	"tut": {
@@ -77,7 +77,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Je pourrai t'imprimer n'importe quel objet si tu en as le plan !"
+ 	 	 	 	 	"Je peux t'imprimer n'importe quel objet si tu en as le plan !"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"I'll print whatever you want if you have the cache!"
@@ -91,7 +91,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Tu trouveras le meilleur équipement ici, fais-moi confiance."
+ 	 	 	 	 	"Tu trouveras le meilleur équipement ici, crois-moi."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"You will find the best gear here, trust me."
@@ -108,7 +108,7 @@
  	 	 	 	"eng": "To progress to the next area, you need to get Secret Key Fragments from dungeons, \r\n        and use the Terminal to Brute Force the key for next area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Ton ordinateur personnel, quoiqu'un peu vieillissant, peut faire le boulot avec un peu de patience",
+ 	 	 	 	"trans": "Ton ordinateur personnel, bien qu'un peu obsolète, peut faire le boulot avec assez de patience",
  	 	 	 	"eng": "Your personal computer, although it's a little outdated, it can get the job done with enough patience"
  	 	 	},
  	 	 	"canAccessError": {
@@ -131,7 +131,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hé gamin ! Viens voir mes marchandises !"
+ 	 	 	 	 	"Hé gamin ! Viens voir ce que j'ai en stock !"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hey kid... Come check out my goods."
@@ -149,7 +149,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Bienvenue ! Que puis-je stocker pour toi ?"
+ 	 	 	 	 	"Bienvenue ! Que puis-je te stocker ? "
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Welcome. What can I store for you?"
@@ -162,7 +162,7 @@
  	 	 	 	"eng": "Calibration Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Un établi avec les outils nécessaires te permettant de bricoler ton équipement.",
+ 	 	 	 	"trans": "Un établi te permet de bricoler ton équipement avec les bons outils.",
  	 	 	 	"eng": "A workbench with the necessary tools allows you to tinker with your equipment."
  	 	 	},
  	 	 	"canAccessError": {
@@ -171,7 +171,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Insére un noyau de calibrage dans la machine, ensuite je t'aiderai à calibrer une pièce de ton équipement."
+ 	 	 	 	 	"Insére un noyau de calibrage dans la machine et je t'aiderai à calibrer une pièce de ton équipement."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Insert a Calibration Core into the machine, and I shall help you calibrate any of your equipment."
@@ -184,7 +184,7 @@
  	 	 	 	"eng": "Lee's Trading Post"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Une boutique familiale te permettant de faire du commerce avec les débris des objets recyclés.",
+ 	 	 	 	"trans": "Une boutique familiale où tu peux commercer avec des débris trouvé en fouillant un peu partout.",
  	 	 	 	"eng": "A family run trading shop that lets you trade with what they have found while scavenging"
  	 	 	},
  	 	 	"canAccessError": {
@@ -193,7 +193,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hé gamin ! Je m'appelle Lee !! Tu sais, je peux t'aider à augmenter ta capacité de stockage de ton butin."
+ 	 	 	 	 	"Hé gamin ! Je m'appelle Lee ! Tu sais, je peux t'aider à augmenter ta capacité de stockage."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hey kid, I'm Lee, You know, you don't have to carry everything you own in your pockets."
@@ -206,7 +206,7 @@
  	 	 	 	"eng": "Automatic Recycler"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Recycleur entièrement automatisé, capable de recycler des objets en simple pièces technologiques",
+ 	 	 	 	"trans": "Recycleur entièrement automatisé, capable de recycler des objets dans leur forme de débris initiale",
  	 	 	 	"eng": "Fully automated recycler, capable of recycling items to their basic scrap form"
  	 	 	}
  	 	}
@@ -257,7 +257,7 @@
  	 	},
  	 	"ammo": {
  	 	 	"name": {
- 	 	 	 	"trans": "Création de munitions",
+ 	 	 	 	"trans": "Artisanat de munitions",
  	 	 	 	"eng": "ammo crafting"
  	 	 	}
  	 	},
@@ -286,7 +286,7 @@
  	 	 	},
  	 	 	"toStation": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Aller vers la Gare Centrale d'Hyper-train",
+ 	 	 	 	 	"trans": "Aller vers la Gare Centrale d'Hyper-Train",
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	},
  	 	 	 	"tut": {
@@ -294,7 +294,7 @@
  	 	 	 	 	"eng": "Start your adventure for epic loot here"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Aller vers la Gare Centrale d'Hyper-train",
+ 	 	 	 	 	"trans": "Aller vers la Gare Centrale d'Hyper-Train",
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	}
  	 	 	},
@@ -336,7 +336,7 @@
  	 	 	},
  	 	 	"toMainHub": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Retour vers le Centre-Ville de Shangri-La",
+ 	 	 	 	 	"trans": "Retour au Centre-Ville de Shangri-La",
  	 	 	 	 	"eng": "Return to Shangri-La City Center"
  	 	 	 	}
  	 	 	}
@@ -352,14 +352,14 @@
  	 	 	},
  	 	 	"toMainHub": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Retour vers le Centre-Ville de Shangri-La",
+ 	 	 	 	 	"trans": "Retour au Centre-Ville de Shangri-La",
  	 	 	 	 	"eng": "Return to Shangri-La City Center"
  	 	 	 	}
  	 	 	}
  	 	},
  	 	"station": {
  	 	 	"name": {
- 	 	 	 	"trans": "Gare Centrale d'Hyper-train",
+ 	 	 	 	"trans": "Gare Centrale d'Hyper-Train",
  	 	 	 	"eng": "Hyper Train Central Station"
  	 	 	},
  	 	 	"description": {
@@ -370,7 +370,7 @@
  	 	"zone": {
  	 	 	"backToMainHub": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Retour vers le centre-ville",
+ 	 	 	 	 	"trans": "Retour au centre-ville",
  	 	 	 	 	"eng": "Back to city center",
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"mainHubName"
@@ -380,7 +380,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"mainHubName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Retour vers ${mainHubName}",
+ 	 	 	 	 	"trans": "Retour à ${mainHubName}",
  	 	 	 	 	"eng": "Return to ${mainHubName}"
  	 	 	 	}
  	 	 	},
@@ -389,24 +389,24 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"segmentStationName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Retour vers ${segmentStationName}",
+ 	 	 	 	 	"trans": "Retour à ${segmentStationName}",
  	 	 	 	 	"eng": "back to ${segmentStationName}"
  	 	 	 	},
  	 	 	 	"description": {
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"segmentStationName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Retour vers ${segmentStationName}",
+ 	 	 	 	 	"trans": "Retour à ${segmentStationName}",
  	 	 	 	 	"eng": "return to ${segmentStationName}"
  	 	 	 	}
  	 	 	},
  	 	 	"toStation": {
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Retour vers la station d'Hyper-train",
+ 	 	 	 	 	"trans": "Retour à la station d'Hyper-Train",
  	 	 	 	 	"eng": "Return to Hyper Train Station"
  	 	 	 	},
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Retour vers la station d'Hyper-train",
+ 	 	 	 	 	"trans": "Retour à la station d'Hyper-Train",
  	 	 	 	 	"eng": "back to Hyper Train Station"
  	 	 	 	}
  	 	 	}
@@ -414,7 +414,7 @@
  	 	"segment": {
  	 	 	"locked": {
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Rassemble 3 différents fragments de clé dans les donjons des 3 zones de la station précédente, \r\n                    puis va au [Terminal] du Centre-Ville [Hub] pour cracker la clé nécessaire pour accéder à cette zone",
+ 	 	 	 	 	"trans": "Rassemble 3 fragments de clé différents dans les donjons des 3 zones de la station précédente, \r\n                    puis va au [Terminal] du Centre-Ville [Hub] pour cracker (Fabriquer) la clé nécessaire pour accéder à cette zone",
  	 	 	 	 	"eng": "Gather all 3 different Key Fragments from Dungeons in each 3 zones in previous station, \r\n                    then go to [Terminal] at City Center [Hub] to brute-force (Craft) the key required to unlock this area"
  	 	 	 	}
  	 	 	},
@@ -467,7 +467,7 @@
  	 	 	 	"eng": "Gang Headquarters"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Gang]\r\n        Le quartier général dans lequel toi et les autres membres du gang planifiez et exécutez votre prochaine opération",
+ 	 	 	 	"trans": "[Gang]\r\n        Le quartier général dans lequel les autres membres du gang et toi planifiez et exécutez votre prochaine opération",
  	 	 	 	"eng": "[Gang]\r\n        The headquarters for you and your gang members to plan and execute your next operation"
  	 	 	},
  	 	 	"cantEnterError": {
@@ -523,7 +523,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"typeName"
  	 	 	 	],
- 	 	 	 	"trans": "Un plan contenant des informations utilisées pour l'impression 3D moléculaire d'un(e) ${typeName}, \r\n                    Vous pouvez créer un(e) ${typeName} avec le [Molecular 3d Printer] au [Central Hub].\r\n                    \r\n                    Astuce : Le niveau de l'objet obtenu par impression est déterminé par votre niveau d'impression,\r\n                    donc imprimez toujours ceux de qualité défaillante, vu qu'ils coûtent moins et sont utiles pour améiorer votre niveau d'impression",
+ 	 	 	 	"trans": "Un plan contenant des informations utilisées pour l'impression moléculaire 3D d'un(e) ${typeName}, \r\n                    Vous pouvez créer un(e) ${typeName} avec le [Molecular 3d Printer] au [Central Hub].\r\n                    \r\n                    Astuce : Le niveau de l'objet obtenu par impression est déterminé par votre niveau d'impression,\r\n                    donc imprimez toujours ceux de qualité défaillante, vu qu'ils coûtent moins et sont utiles pour améiorer votre niveau d'impression",
  	 	 	 	"eng": "A ${typeName} cache contains information used for Molecular 3D Printing, \r\n                    You can create a ${typeName} with the [Molecular 3d Printer] at [Central Hub].\r\n                    \r\n                    Pro tip: The level of item you get from printing is determined by your Printing Rank,\r\n                    so always print the trash ones first, as they cost less and useful to level up your Printing Rank"
  	 	 	}
  	 	},
@@ -569,7 +569,7 @@
  	 	},
  	 	"healing2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Bot de réparation",
+ 	 	 	 	"trans": "Bot de nano-réparation",
  	 	 	 	"eng": "Degraded Nano Repair Bot"
  	 	 	},
  	 	 	"description": {
@@ -639,7 +639,7 @@
  	 	},
  	 	"healingArea1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Anti-douleur 'spray'",
+ 	 	 	 	"trans": "Spray anti-douleur",
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
@@ -723,7 +723,7 @@
  	 	 	 	"eng": "Medical Tech Parts"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Des morceaux usagés de technologie médicale. Tu peux les utiliser pour fabriquer des objets de soins, si tu sais comment faire.",
+ 	 	 	 	"trans": "Des morceaux de technologie médicale usagés. Tu peux les utiliser pour fabriquer des objets de soins, si tu sais comment faire.",
  	 	 	 	"eng": "Bits and pieces of used medical tech. This can be used to craft healing items if you understand how"
  	 	 	}
  	 	},
@@ -816,7 +816,7 @@
  	 	 	 	"eng": "Anti Matter Charge"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Générateur d'énergie antimatière de haute technologie, miniaturisé et à usage unique. \r\n        Cet objet produit d'énormes quantités d'énergie. Tu peux l'utiliser comme munition pour ton arme destructrice. ",
+ 	 	 	 	"trans": "Générateur d'énergie d'antimatière de haute technologie, miniaturisé et à usage unique. \r\n        Cet objet produit d'énormes quantités d'énergie. Tu peux l'utiliser comme munition pour ton arme destructrice. ",
  	 	 	 	"eng": "High-tech, miniaturized, one-time use, antimatter energy generator. \r\n        This item produces enormous amounts of power. You can use this as ammunition for your destructive weapon. "
  	 	 	}
  	 	},
@@ -914,7 +914,7 @@
  	 	 	 	"eng": "Supply Crate [Gang]"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Contient divers objets et ressources pour qu'un gang reste fonctionnel,\r\n        Clique sur utiliser pour l'envoyer au quartier général de ton gang",
+ 	 	 	 	"trans": "Contient divers objets et ressources pour qu'un gang reste actif,\r\n        Clique sur utiliser pour l'envoyer au quartier général de ton gang",
  	 	 	 	"eng": "Contains misc items and resources for a gang to stay functional,\r\n        Click use to send it to your gang headquarters"
  	 	 	}
  	 	},
